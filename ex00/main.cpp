@@ -6,14 +6,14 @@
 /*   By: gd-auria <gianmarco.dauria@libero.it>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/26 15:08:37 by gd-auria          #+#    #+#             */
-/*   Updated: 2025/05/26 15:19:01 by gd-auria         ###   ########.fr       */
+/*   Updated: 2025/05/26 17:34:41 by gd-auria         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <string>
 #include <iostream>
 
-#include "Whatever.hpp"
+#include "whatever.hpp"
 
 int main(void) {
     int a = 2;
